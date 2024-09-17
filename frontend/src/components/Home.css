@@ -1,0 +1,26 @@
+/* src/components/Home.css */
+
+.Home {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .home-buttons {
+    margin-top: 50px;
+  }
+  
+  .home-buttons button {
+    padding: 15px 30px;
+    margin: 0 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: background-color 0.3s;
+  }
+  
+  .home-buttons button:hover {
+    background-color: #218838;
+  }
